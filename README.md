@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=withered-flowers&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=withered-flowers&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 
-<img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=withered-flowers&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="My GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=withered-flowers&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="My GitHub Stats" />
 
 - 🌱 I’m currently learning astrojs and sveltekit
 
